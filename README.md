@@ -11,6 +11,7 @@ rm .vimrc
 rm -rf .vim
 
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+###https://github.com/Imlazyboy/Vundle.vim
 
 
 vim 
